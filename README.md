@@ -257,4 +257,4 @@ This repository serves as the official landing page for MKV Player. The software
 **Get the most recent version of MKV Player today!**
 
 ---
-**Last updated:** 2026-09-20 05:43:22 UTC
+**Last updated:** 2026-09-20 10:39:42 UTC
